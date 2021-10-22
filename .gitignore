@@ -1,0 +1,5 @@
+# dirs
+/TensorFlow/addons/
+/TensorFlow/pre-trained-models/
+/TensorFlow/workspace/models/
+/TensorFlow/workspace/exported-models/
